@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="be_mind_be_grateful_always_n_created_by_clarent_celsia">Be Mind Be Grateful Always\n Created by: Clarent Celsia</string>
+
+    <string-array name="countryList">
+        <item>Jakarta, ID</item>
+        <item>China, CN</item>
+        <item>Tokyo, JP</item>
+        <item>Korea, KR</item>
+        <item>USA, US</item>
+        <item>London, GB</item>
+    </string-array>
+</resources>
